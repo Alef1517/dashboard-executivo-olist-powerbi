@@ -1,5 +1,5 @@
 # 📊 Dashboard Executivo de Vendas | Olist E-commerce
-
+![Dashboard Executivo](imagens/Dashboard%20executivo.png)
 > Dashboard desenvolvido em **Power BI** utilizando a base pública do **Olist E-commerce**, com foco na construção de uma solução de Business Intelligence para análise de desempenho comercial e logístico.
 
 ---
@@ -69,21 +69,21 @@ Durante o desenvolvimento foram aplicados conceitos de modelagem dimensional, DA
 O projeto está dividido em três páginas principais:
 
 ### 📌 Dashboard Executivo
-
+![Dashboard Executivo](imagens/Dashboard%20executivo.png)
 Visão consolidada dos principais indicadores do negócio.
 
 ### 📈 Análise Comercial
-
+![Análise Comercial](imagens/analise%20comercial.png)
 Análise detalhada do faturamento por categoria, estado e evolução temporal.
 
 ### 🚚 Análise Logística
-
+![Análise Logística](imagens/analise%20logistica.png)
 Indicadores relacionados ao processo de entrega, desempenho operacional e monitoramento logístico.
 
 ---
 
 # 🧠 Modelagem de Dados
-
+![Modelo de Dados](imagens/modelo-dados.png)
 O modelo foi desenvolvido utilizando arquitetura **Star Schema**, contendo tabelas fato e dimensões relacionadas ao processo de vendas do marketplace.
 
 Principais entidades:
