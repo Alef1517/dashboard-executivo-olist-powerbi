@@ -161,6 +161,12 @@ Durante o desenvolvimento foram aplicadas técnicas avançadas de contexto de fi
 2. Abra utilizando o **Power BI Desktop**.
 3. Navegue entre as páginas utilizando os botões de navegação.
 4. Utilize os filtros para explorar os indicadores.
+5.
+6. ## 🌐 Dashboard Online
+
+Acesse o dashboard publicado:
+
+🔗 [Visualizar Dashboard](https://app.powerbi.com/links/lElt3jd35q?ctid=4b4dc4f3-cb2c-4b0b-8a7c-0f345959edaa&pbi_source=linkShare)
 
 ---
 
@@ -171,9 +177,23 @@ Base pública disponibilizada pelo Olist:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
+## 💼 Competências Demonstradas
+
+- Python
+- Pandas
+- ETL
+- Análise Exploratória (EDA)
+- Modelagem Dimensional
+- Power Query
+- DAX
+- Storytelling com Dados
+- Power BI
+- GitHub
+- Documentação Técnica
 
 # 👨‍💻 Autor
 
 **Alef Nascimento Soares Silva de Sousa**
 
 Em transição de carreira para a área de Dados, desenvolvendo projetos voltados para Business Intelligence, Power BI, SQL e Python.
+
