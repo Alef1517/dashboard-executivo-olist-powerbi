@@ -24,6 +24,37 @@ Durante o desenvolvimento foram aplicados conceitos de modelagem dimensional, DA
 
 ---
 
+## 🔍 Processo de Desenvolvimento
+
+O projeto foi desenvolvido seguindo as seguintes etapas:
+
+1. Preparação do ambiente Python
+2. Análise Exploratória dos Dados (EDA)
+3. Tratamento e integração dos dados
+4. Planejamento da modelagem dimensional
+5. Desenvolvimento do Dashboard em Power BI
+6. Documentação e publicação no GitHub
+
+### Estrutura do Projeto
+
+- 📊 Dashboard em Power BI
+- 🐍 Notebook de Análise Exploratória
+- 📝 Documentação
+- 💾 Exemplos de SQL
+
+## 📌 Resumo do Projeto
+
+| Item | Descrição |
+|------|-----------|
+| Ferramenta principal | Power BI |
+| Linguagem de apoio | Python |
+| Biblioteca | Pandas |
+| Ambiente | Jupyter Notebook / VS Code |
+| Modelagem | Star Schema |
+| Base de dados | Olist E-commerce |
+| Total de registros | ~100 mil pedidos |
+| Objetivo | Construção de um Dashboard Executivo para análise comercial e logística |
+
 # 🛠 Tecnologias Utilizadas
 
 - Power BI Desktop
