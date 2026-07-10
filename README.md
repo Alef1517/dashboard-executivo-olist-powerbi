@@ -26,11 +26,15 @@ Durante o desenvolvimento foram aplicados conceitos de modelagem dimensional, DA
 
 # 🛠 Tecnologias Utilizadas
 
-* Power BI Desktop
-* Power Query
-* DAX
-* Modelagem Dimensional (Star Schema)
-* GitHub
+- Power BI Desktop
+- Power Query
+- DAX
+- Python
+- Pandas
+- Jupyter Notebook
+- Visual Studio Code
+- GitHub
+- Modelagem Dimensional (Star Schema)
 
 ---
 
