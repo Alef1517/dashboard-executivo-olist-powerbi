@@ -1,10 +1,10 @@
-# 📊 Dashboard Executivo de Vendas | Olist E-commerce
+#  Dashboard Executivo de Vendas | Olist E-commerce
 ![Dashboard Executivo](imagens/dashboard-executivo.png)
 > Dashboard desenvolvido em **Power BI** utilizando a base pública do **Olist E-commerce**, com foco na construção de uma solução de Business Intelligence para análise de desempenho comercial e logístico.
 
 ---
 
-# 📖 Sobre o Projeto
+#  Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de transformar dados transacionais do marketplace Olist em informações estratégicas para apoio à tomada de decisão.
 
@@ -14,7 +14,7 @@ Durante o desenvolvimento foram aplicados conceitos de modelagem dimensional, DA
 
 ---
 
-# 🎯 Objetivos
+#  Objetivos
 
 * Monitorar indicadores estratégicos do marketplace.
 * Avaliar o desempenho comercial.
@@ -24,7 +24,7 @@ Durante o desenvolvimento foram aplicados conceitos de modelagem dimensional, DA
 
 ---
 
-## 🔍 Processo de Desenvolvimento
+##  Processo de Desenvolvimento
 
 O projeto foi desenvolvido seguindo as seguintes etapas:
 
@@ -37,12 +37,12 @@ O projeto foi desenvolvido seguindo as seguintes etapas:
 
 ### Estrutura do Projeto
 
-- 📊 Dashboard em Power BI
-- 🐍 Notebook de Análise Exploratória
-- 📝 Documentação
-- 💾 Exemplos de SQL
+-  Dashboard em Power BI
+-  Notebook de Análise Exploratória
+-  Documentação
+-  Exemplos de SQL
 
-## 📌 Resumo do Projeto
+##  Resumo do Projeto
 
 | Item | Descrição |
 |------|-----------|
@@ -55,7 +55,7 @@ O projeto foi desenvolvido seguindo as seguintes etapas:
 | Total de registros | ~100 mil pedidos |
 | Objetivo | Construção de um Dashboard Executivo para análise comercial e logística |
 
-# 🛠 Tecnologias Utilizadas
+#  Tecnologias Utilizadas
 
 - Power BI Desktop
 - Power Query
@@ -69,7 +69,7 @@ O projeto foi desenvolvido seguindo as seguintes etapas:
 
 ---
 
-# 📈 Indicadores Desenvolvidos
+#  Indicadores Desenvolvidos
 
 ### Dashboard Executivo
 
@@ -99,28 +99,28 @@ O projeto foi desenvolvido seguindo as seguintes etapas:
 
 ---
 
-# 🗂 Estrutura do Dashboard
+#  Estrutura do Dashboard
 
 O projeto está dividido em três páginas principais:
 
-### 📌 Dashboard Executivo
+###  Dashboard Executivo
 ![Dashboard Executivo](imagens/dashboard-executivo.png)
 
 Visão consolidada dos principais indicadores do negócio.
 
-### 📈 Análise Comercial
+###  Análise Comercial
 ![Análise Comercial](imagens/analise-comercial.png)
 
 Análise detalhada do faturamento por categoria, estado e evolução temporal.
 
-### 🚚 Análise Logística
+###  Análise Logística
 ![Análise Logística](imagens/analise-logistica.png)
 
 Indicadores relacionados ao processo de entrega, desempenho operacional e monitoramento logístico.
 
 ---
 
-# 🧠 Modelagem de Dados
+#  Modelagem de Dados
 ![Modelo de Dados](imagens/modelo-dados.png)
 
 O modelo foi desenvolvido utilizando arquitetura **Star Schema**, contendo tabelas fato e dimensões relacionadas ao processo de vendas do marketplace.
@@ -140,7 +140,7 @@ Durante o desenvolvimento foram aplicadas técnicas avançadas de contexto de fi
 
 ---
 
-# 📌 Principais Técnicas Aplicadas
+#  Principais Técnicas Aplicadas
 
 * Modelagem Dimensional
 * KPIs Dinâmicos
@@ -155,14 +155,14 @@ Durante o desenvolvimento foram aplicadas técnicas avançadas de contexto de fi
 
 ---
 
-# 🚀 Como visualizar
+#  Como visualizar
 
 1. Faça o download do arquivo `.pbix`.
 2. Abra utilizando o **Power BI Desktop**.
 3. Navegue entre as páginas utilizando os botões de navegação.
 4. Utilize os filtros para explorar os indicadores.
 5.
-6. ## 🌐 Dashboard Online
+6. ##  Dashboard Online
 
 Acesse o dashboard publicado:
 
@@ -170,14 +170,14 @@ Acesse o dashboard publicado:
 
 ---
 
-# 📚 Fonte dos Dados
+#  Fonte dos Dados
 
 Base pública disponibilizada pelo Olist:
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
-## 💼 Competências Demonstradas
+##  Competências Demonstradas
 
 - Python
 - Pandas
@@ -191,7 +191,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - GitHub
 - Documentação Técnica
 
-# 👨‍💻 Autor
+#  Autor
 
 **Alef Nascimento Soares Silva de Sousa**
 
